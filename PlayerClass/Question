@@ -1,0 +1,18 @@
+Create Player class with data members
+- name
+- age
+- country
+
+Implement followings:
+- Default constructor
+- Parameterized constructor
+- Function to Sort Array of Player objects
+
+(implement as global, sorting should be one name and age. Use qsort library function to sort)
+- overload >> operator for for data input
+- overload << operator for data display
+
+Separate header and implementation files
+- In main function create array of player objects
+and pass it to Sort function and print sorted
+player list
